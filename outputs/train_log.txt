@@ -1,0 +1,20 @@
+16:15:03 steps/epoch 2210 | total 6630
+16:15:19 step 0 | val loss 4.682
+16:20:43 epoch 1 step   500 | train 0.1731 | val 0.1222 | 5.7 min  <- best, saved
+16:26:09 epoch 1 step  1000 | train 0.1223 | val 0.0928 | 11.1 min  <- best, saved
+16:31:38 epoch 1 step  1500 | train 0.1032 | val 0.0761 | 16.6 min  <- best, saved
+16:37:02 epoch 1 step  2000 | train 0.1006 | val 0.0725 | 22.0 min  <- best, saved
+16:39:21 === end of epoch 1: validation exact match (greedy, n=500) = 0.782
+16:42:35 epoch 2 step  2500 | train 0.0804 | val 0.0662 | 27.5 min  <- best, saved
+16:47:57 epoch 2 step  3000 | train 0.0672 | val 0.0619 | 32.9 min  <- best, saved
+16:53:16 epoch 2 step  3500 | train 0.0637 | val 0.0576 | 38.2 min  <- best, saved
+16:58:41 epoch 2 step  4000 | train 0.0594 | val 0.0543 | 43.6 min  <- best, saved
+17:03:11 === end of epoch 2: validation exact match (greedy, n=500) = 0.810
+17:04:16 epoch 3 step  4500 | train 0.0455 | val 0.0531 | 49.2 min  <- best, saved
+17:09:38 epoch 3 step  5000 | train 0.0430 | val 0.0504 | 54.6 min  <- best, saved
+17:14:55 epoch 3 step  5500 | train 0.0428 | val 0.0491 | 59.9 min  <- best, saved
+17:20:20 epoch 3 step  6000 | train 0.0438 | val 0.0469 | 65.3 min  <- best, saved
+17:25:44 epoch 3 step  6500 | train 0.0393 | val 0.0460 | 70.7 min  <- best, saved
+17:27:18 epoch 3 step  6630 | train 0.0373 | val 0.0461 | 72.2 min
+17:27:26 === end of epoch 3: validation exact match (greedy, n=500) = 0.830
+17:27:26 training time: 72.4 min, best val loss 0.0460
